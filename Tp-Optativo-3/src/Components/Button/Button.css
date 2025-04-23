@@ -1,0 +1,20 @@
+.boton{
+    width: 190px;
+    display: flex;
+    flex-direction: column;
+}
+
+.boton-comprar{
+    border: none;
+    border-radius: 2px;
+    background-color: #329ee6;
+    color: white;
+    height: 21px;
+    cursor: pointer;
+}
+.boton-comprado{
+    border: none;
+    border-radius: 2px;
+    background-color: grey;
+    height: 21px;
+}
