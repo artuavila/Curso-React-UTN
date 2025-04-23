@@ -1,0 +1,197 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+/*
+.input-password{
+  //Hace que el icon este encerrado en el contenedor
+    position: relative;
+    display: flex;
+    align-items: center;
+
+.icon{
+    position: absolute;
+    right: 16px;
+}
+
+    <div class="input-password">
+        <input type="password" class="password"/>
+        <i class="icon"> </i>
+    </div>
+*/
+.contenedor-register{
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+}
+
+.div-top-register{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.div0{
+    background-color: white;
+    border-radius: 7px;
+    border: #b0b1b5 1px solid;
+    width: 550px;
+    height: 600px;
+}
+
+.h2{
+    color: black;
+    height: 20px;
+    padding-top: 20px;
+}
+
+.h5{
+    color: #b0b1b5;
+    height: 25px;
+}
+
+.div-nom-ape{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.div1{
+    display: inline-block;
+}
+
+.form1{
+    height: 75px;
+    width: 200px;
+}
+
+/*.label1{
+    padding-right: 142px;
+}*/
+
+.nombre{
+    width: 192px;
+    height: 25px;
+    background-color: white;
+}
+
+.form2{
+    height: 75px;
+    width: 200px;
+    padding-right: 0px;
+}
+
+/*.label2{
+    padding-right: 142px;
+}*/
+
+.apellido{
+    width: 192px;
+    height: 25px;
+    background-color: white;
+}
+
+.div-email{
+    display: flex;
+    justify-content: center;
+}
+
+.form3{
+    height: 75px;
+    width: 410px;
+}
+
+/*.label3{
+    padding-right: 372px; 
+}*/
+
+.email{
+    width: 402px;
+    height: 25px;
+    background-color: white;
+}
+
+.div-telefono{
+    display: flex;
+    justify-content: center;
+}
+
+.form4{
+    height: 75px;
+    width: 410px;
+}
+
+/*.label4{
+    padding-right: 355px;   
+}*/
+
+.telefono{
+    width: 402px;
+    height: 25px;
+    background-color: white;
+}
+
+.div-contraseña{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form5{
+    height: 75px;
+    width: 410px;
+}
+
+/*.label5{
+    padding-right: 387px;
+}*/
+
+.contraseña{
+    width: 402px;
+    height: 25px;
+    background-color: white;
+}
+
+.div-conf-contraseña{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form6{
+    height: 75px;
+    width: 410px;
+}
+
+/*.label6{
+    padding-right: 315px;
+}*/
+
+.conf-contraseña{
+    width: 402px;
+    height: 25px;
+    background-color: white;
+}
+
+.div-button{
+    display: flex;
+    justify-content: center;
+}
+
+.button-register{
+    width: 410px;
+    border-radius: 8px;
+    border: 1px solid transparent;
+    padding: 8px;
+    font-size: 1em;
+    cursor: pointer;
+    color: white;
+    background-color: black;
+}
+
+.bi-eye{
+    position: absolute;
+    right: 85px;
+    top: 25px;
+    cursor: pointer;
+}
