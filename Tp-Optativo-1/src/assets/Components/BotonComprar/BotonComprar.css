@@ -1,0 +1,19 @@
+.boton{
+    width: 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.boton-comprar{
+    border: none;
+    border-radius: 2px;
+    background-color: #329ee6;
+    color: white;
+    font-size: 13px;
+}
+
+.boton-reset{
+    font-size: 5px;
+}
+
