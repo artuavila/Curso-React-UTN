@@ -1,0 +1,21 @@
+.div-contador{
+    display: flex;
+}
+
+.boton-contador{
+    border: none;
+    background-color: rgb(46, 47, 48);
+    color: white;
+    cursor: pointer;
+    width: 30px;
+    height: 26px;
+}
+
+.input-contador{
+    width: 39px;
+    height: 24px;
+    text-align: center;
+    border: none;
+    background-color: rgb(92, 92, 92);
+    color: #f2f2f2;
+}

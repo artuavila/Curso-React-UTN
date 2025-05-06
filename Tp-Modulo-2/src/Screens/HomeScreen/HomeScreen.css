@@ -1,0 +1,14 @@
+.h1-header-homescreen{
+    margin-block-start: 10px;
+    margin-block-end: 5px;  
+    color: #08bc08; 
+}
+
+.header-homescreen{
+    margin-block-end: 10px;
+}
+
+.span-productos{
+    color: white;
+    margin: 3px;
+}

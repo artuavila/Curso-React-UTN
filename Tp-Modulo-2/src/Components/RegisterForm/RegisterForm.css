@@ -1,0 +1,220 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+.contenedor-register{
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+}
+
+.div-top-register{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.div0{
+    background-color: black;
+    border-radius: 7px;
+    border: none;
+    width: 550px;
+    height: 600px;
+}
+
+.h2{
+    color: black;
+    height: 20px;
+    padding-top: 20px;
+    color: rgb(176, 169, 159);
+    font-size: 27px;
+    font-weight: 400;
+}
+
+.h4{
+    color: rgb(124, 124, 124);
+    height: 25px;
+    font-weight: 400;
+    font-size: 17px;
+}
+
+.div-nom-ape{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.div1{
+    display: inline-block;
+}
+
+.form1{
+    height: 75px;
+    width: 200px;
+}
+
+.label1{
+    color: rgb(114, 124, 129);
+}
+
+.nombre{
+    width: 192px;
+    height: 25px;
+    background-color: rgb(101 106 108 / 42%);
+    color: rgb(176, 169, 159);
+    border: 0px;
+}
+
+.form2{
+    height: 75px;
+    width: 200px;
+}
+
+.label2{
+    color: rgb(114, 124, 129);
+}
+
+.apellido{
+    width: 192px;
+    height: 25px;
+    background-color: rgb(101 106 108 / 42%);
+    color: rgb(176, 169, 159);
+    border: 0px;
+}
+
+.div-email{
+    display: flex;
+    justify-content: center;
+}
+
+.form3{
+    height: 75px;
+    width: 410px;
+}
+
+.label3{
+    color: rgb(114, 124, 129);
+}
+
+.email{
+    width: 402px;
+    height: 25px;
+    background-color: rgb(101 106 108 / 42%);
+    color: rgb(176, 169, 159);
+    border: 0px;
+}
+
+.div-num-cod-area{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.div2{
+    display: inline-block;
+}
+
+.form4{
+    height: 75px;
+    width: 200px;
+}
+
+.label4{
+    color: rgb(114, 124, 129);
+}
+
+.form5{
+    height: 75px;
+    width: 200px;
+}
+
+.label5{
+    color: rgb(114, 124, 129);
+}
+
+.cod-area{
+    width: 192px;
+    height: 25px;
+    background-color: rgb(101 106 108 / 42%);
+    color: rgb(176, 169, 159);
+    border: 0px;
+}
+
+.telefono{
+    width: 192px;
+    height: 25px;
+    background-color: rgb(101 106 108 / 42%);
+    color: rgb(176, 169, 159);
+    border: 0px;
+}
+
+.div-contraseña{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form6{
+    height: 75px;
+    width: 410px;
+}
+
+.label6{
+    color: rgb(114, 124, 129);
+}
+
+.contraseña{
+    width: 402px;
+    height: 25px;
+    background-color: rgb(101 106 108 / 42%);
+    color: rgb(176, 169, 159);
+    border: 0px;
+}
+
+.div-conf-contraseña{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form7{
+    height: 75px;
+    width: 410px;
+}
+
+.label7{
+    color: rgb(114, 124, 129);
+}
+
+.conf-contraseña{
+    width: 402px;
+    height: 25px;
+    background-color: rgb(101 106 108 / 42%);
+    color: rgb(176, 169, 159);
+    border: 0px;
+}
+
+.div-button{
+    display: flex;
+    justify-content: center;
+}
+
+.button-register{
+    width: 410px;
+    border-radius: 8px;
+    border: 1px solid transparent;
+    padding: 8px;
+    font-size: 1em;
+    cursor: pointer;
+    color: white; 
+    background-color: #390080;
+}
+
+.bi-eye{
+    position: absolute;
+    right: 85px;
+    top: 25px;
+    cursor: pointer;
+    color: rgb(114, 124, 129);
+}

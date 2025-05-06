@@ -1,0 +1,9 @@
+.h1-header-register{
+    margin-block-start: 10px;
+    margin-block-end: 5px;  
+    color: #08bc08; 
+}
+
+.header-register{
+    margin-block-end: 10px;
+}
