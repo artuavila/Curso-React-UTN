@@ -1,0 +1,162 @@
+.contenedor-product-detail{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.contenedor-product-description{
+    border: #3a3e41 1px solid;
+    background-color: black;
+}
+
+.producto-detail{
+    display: flex;
+    flex-direction: row;
+    height: 240px;
+    width: 125px;
+    align-items: center;
+    justify-content: space-around;
+    width: 800px;
+    height: 600px;
+}
+
+
+.div-titulo-imagen-detail{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.imagen-detail{
+    width: 550px;
+    height: 550px;
+
+}
+
+.hr-titulo{
+    width: 550px;
+}
+
+.div-titulo-detail{
+    text-align: center;
+    padding: 5px 3px 0 3px;
+    color: #F2F2F2;
+}
+
+.titulo-detail{
+    margin: 0px;
+    display: -webkit-box; 
+    font-weight: bolder;
+}
+
+.precio-detail{
+    text-decoration: line-through;
+    color: rgb(136, 136, 136);
+    font-size: 20px;
+}
+
+.preciofinal-detail{
+    font-size: 25px;
+    color: #00e602;
+}
+
+.descuento-detail{
+    color: white;
+    background-color: #08bd08;
+    border-radius: 3px;
+    padding: 1px 5px;
+    font-size: 11px;
+}
+
+.span-precio-especial-detail{
+    font-size: 10px;
+    color: #9E9E9E;
+}
+
+.div-precios-stock-descripcion-detail{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+.div-pre-desc-detail{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.div-precios-detail{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+.stockweb-detail{
+    color: rgb(8, 188, 8);
+    font-weight: 600;
+}
+
+.stocklocal-detail{
+    color: rgb(255, 131, 0);
+    font-weight: 600;
+}
+
+.hr-div-separador{
+    width: 780px;
+    color: grey 1px solid;
+}
+
+.div-descripcion{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    color: #F2F2F2;
+    width: 800px;
+    font-size: 13px;
+}
+
+.div-info-descripcion{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+    margin: 2px 15px 0 0;
+    font-size: 12px;
+    color: #F2F2F2;
+}
+
+.span-garantia-detail{
+    display: flex;
+    flex-direction: column;
+    height: 15px;
+    gap: 5px;
+    justify-content: center;
+}
+
+.descripcion{
+    white-space: pre-line;
+}
+
+.span-descripcion{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.hr{
+    width: 200px;
+}
+
+.p-dias-detail{
+    margin: 0px;
+}
+
+.b-gratis-detail{
+    color: #08BC08;
+}
+
+.div-retiro-detail{
+    gap: 5px;
+}

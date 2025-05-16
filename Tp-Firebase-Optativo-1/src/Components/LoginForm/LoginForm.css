@@ -1,0 +1,80 @@
+.contenedor-login{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.div-login{
+    width: 575px;
+    height: 275px;
+    border-radius: 7px;
+    border: none;
+    background-color: black;
+}
+
+.div-h2-login{
+    display: flex;
+    justify-content: center;
+}
+
+.h2-login{
+    padding-top: 0px;
+    color: rgb(176, 169, 159);
+    font-size: 27px;
+    font-weight: 400;
+}
+
+.div-email-contraseña-login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.input-email-login{
+    width: 500px;
+    height: 35px;
+    background-color: rgb(101 106 108 / 42%);
+    color: rgb(176, 169, 159);
+    border: 0px;
+}
+
+.input-contraseña-login{
+    width: 500px;
+    height: 35px;
+    background-color: rgb(101 106 108 / 42%);
+    color: rgb(176, 169, 159);
+    border: 0px;
+}
+
+.div-0-login{
+    display: flex;
+    justify-content: space-around;
+    gap: 150px;
+    padding-top: 15px;
+    font-size: 16px;
+}
+.span-registrarme-login{
+    color: rgb(114, 124, 129);
+    cursor: pointer;
+}
+
+.span-olvi-contr-login{
+    color: rgb(114, 124, 129);
+    cursor: pointer;
+}
+
+.div-btn-login{
+    display: flex;
+    justify-content: center;
+    padding-top: 17px;
+}
+
+.btn-login{
+    width: 508px;
+    height: 37px; 
+    background-color: #390080;
+    border: 0px;  
+    color: white;
+    cursor: pointer;
+}

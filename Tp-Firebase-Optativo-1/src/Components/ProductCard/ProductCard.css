@@ -1,0 +1,92 @@
+.producto{
+    display: flex;
+    flex-direction: column;
+    height: 240px;
+    width: 125px;
+    align-items: center;
+    justify-content: space-around;
+    width: 238px;
+    height: 448px;
+    color: white;
+    background-color: #181a1b;
+    padding: 7px;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    background-color: rgb(32, 35, 36);
+    border: rgb(218, 218, 218) 1px solid;
+    border-radius: 4px;
+    margin-top: 8px;
+}
+
+.imagen{
+    width: 227px;
+    height: 227px;
+
+}
+
+.div-titulo{
+    text-align: center;
+    padding: 5px 3px 0 3px;
+}
+
+.titulo{
+    margin: 0px;
+    display: -webkit-box; 
+}
+
+.precio{
+    text-decoration: line-through;
+    color: rgb(136, 136, 136);
+}
+
+.descuento{
+    color: white;
+    background-color: #08bd08;
+    border-radius: 3px;
+    padding: 1px 5px;
+}
+
+/*.preciofinal{
+
+}*/
+
+.cantidad{
+    margin-left: 5px;
+}
+
+.div-pre-desc{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.div-precios{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+.link-ver-mas{
+    text-decoration: none;
+}
+
+.div-ver-mas{
+    text-align: center;
+    background-color: rgb(8, 188, 8);
+    color: white;
+    width: 190px;
+    border-radius: 2px;
+}
+
+.span-precio-especial{
+    font-size: 12px;
+}
+
+.span-cuotas{
+    font-size: 12 px;
+}

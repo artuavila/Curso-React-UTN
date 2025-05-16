@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "title": "PC Armada Oferta AMD Ryzen 7 5700G 16GB 480GB",
+        "real_price": 393.759,
+        "discount": 25,
+        "final_price": 370.999,
+        "stockweb": "STOCK ALTO EN LA WEB",
+        "stocklocal": "SIN STOCK EN EL LOCAL",
+        "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/2-Pc-Armada-AMD_800.jpg",
+        "descripcion": "Procesador: AMD Ryzen 7 5700G\nMotherboard: A520 / B450 AM4\nGráfica: Integrada\nMemoria RAM: 8GB DDR4 x2\nDisco SSD: 480GB SATA III\nGabinete: Kit - 500W Gen."
+    },
+    {
+        "id": 2,
+        "title": "Gabinete FURY SHOBO SH4F 4 Fans Fixed RGB Black",
+        "real_price": 156.999,
+        "discount": 10,
+        "final_price": 143.559,
+        "stockweb": "STOCK ALTO EN LA WEB",
+        "stocklocal": "STOCK BAJO EN EL LOCAL",
+        "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/NFO-2154_800.jpg",
+        "descripcion": "Procesador: AMD Ryzen 5 4700G\nMotherboard: A350 / B360 AM4\nGráfica: Integrada\nMemoria RAM: 8GB DDR3 x1\nDisco SSD: 480GB SATA III\nGabinete: Kit - 500W Gen."
+    },
+    {
+        "id": 3,
+        "title": "Monitor LED VA 24\" Samsung Odyssey G3 144Hz 1ms Freesync",
+        "real_price": 276.998,
+        "discount": 15,
+        "final_price": 259.169,
+        "stockweb": "ULTIMAS UNIDADES EN LA WEB",
+        "stocklocal": "SIN STOCK EN EL LOCAL",
+        "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/LS24BG300ELC_800.jpg",
+        "descripcion": "Tipo de panel: VA\nPantalla: Plana\nAncho: 540.2 mm\nAlto: 323.1 mm (sin base)\nTamaño de pantalla: 24\" (23.8\" visibles)\nEntrada VGA: No\nEntrada DisplayPort: Sí (DisplayPort 1.2)\nEntrada HDMI: Sí (HDMI 2.0)\nConsumo Máximo: 35W\nResolución Máxima: FHD 1920 x 1080\nTiempo de respuesta: 1 ms (MPRT)\nCantidad de colores: 16.7 M\nFrecuencia Máxima: 144 Hz\nTecnología: FreeSync Premium\nAltavoces: No"
+    },
+    {
+        "id": 4,
+        "title": "Silla Gamer Corsair T3 Rush 2023 Grey/White",
+        "real_price": 493.825,
+        "discount": 5,
+        "final_price": 481.499,
+        "stockweb": "ULTIMAS UNIDADES EN LA WEB",
+        "stocklocal": "SIN STOCK EN EL LOCAL",
+        "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CF-9010058-WW_800.jpg",
+        "descripcion": "Capacidad de peso: 120 kg\nPeso del producto: 22 kg\nMaterial: Tela transpirable suave\nAccesorios: Cojín lumbar de espuma viscoelástica y almohada para el cuello\nAncho del respaldo: 56 cm\nLargo del respaldo: 85 cm\nAncho del asiento: 57 cm\nProfundidad del asiento: 44 cm\nAjuste de altura: Sí\nAjuste de brazos: 4D (Altura, Rotación, Desplazamiento hacia adelante/atrás y lateral)\nReclinación: 90° - 170°\nColores: Gris/Blanco"
+    },
+    {
+        "id": 5,
+        "title": "Placa de Video ASUS Nvidia Geforce RTX 3050 DUAL OC 6GB GDDR6",
+        "real_price": 274.275,
+        "discount": 5,
+        "final_price": 258.559,
+        "stockweb": "STOCK ALTO EN LA WEB",
+        "stocklocal": "STOCK BAJO EN EL LOCAL",
+        "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90YV0K61-M0AA00_800.jpg",
+        "descripcion": "GPU: NVIDIA GeForce RTX 3050\nArquitectura: Ampere\nFrecuencia Boost: 1537 MHz (OC Mode)\nInterfaz: PCI Express 4.0\nCapacidad: 6 GB\nTipo: GDDR6\nInterfaz de Memoria: 96 bits\nSalidas: 1x HDMI 2.1, 1x DisplayPort 1.4a, 1x DVI-D\nResolución Máxima: 7680 x 4320\nCantidad de Monitores: 3\nConsumo: 70 W\nFuente Recomendada: 250 W\nConector de Energía: No requiere conector adicional"
+    },
+    {
+        "id": 6,
+        "title": "Micro Intel I7-12700K 5.0Ghz 25Mb S.1700",
+        "real_price": 422.332,
+        "discount": 20,
+        "final_price": 386.999,
+        "stockweb": "ULTIMAS UNIDADES EN LA WEB",
+        "stocklocal": "STOCK BAJO EN EL LOCAL",
+        "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/BX8071512700K_800.jpg",
+        "descripcion": "Modelo: Micro Intel I7-12700K\nFamilia: Micro Intel I7\nNúcleos: 12\nHilos: 20\nFrecuencia: 5.0 GHz\nProceso de Fabricación: 10 nm\nGráfica Integrada: UHD Graphics 770\nSocket: S.1700\nIncluye Cooler CPU: No\nTDP: 125 W\nDesbloqueado - Overclockeable: Sí\nCaché L1: 64K\nCaché L2: 12 MB\nCaché L3: 25 MB"
+    },
+    {
+        "id": 7,
+        "title": "Monitor Gamer LED IPS 24\" LG 24GS60F Borderless UltraGear FHD 180Hz 1Ms Freesync",
+        "real_price": 283.564,
+        "discount": 10,
+        "final_price": 268.399,
+        "stockweb": "ULTIMAS UNIDADES EN LA WEB",
+        "stocklocal": "SIN STOCK EN EL LOCAL",
+        "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/24GS60F_800.jpg",
+        "descripcion": "Marca: LG\nModelo: 24GS60F-B\nTamaño del panel: 23.8\"\nTipo de panel: IPS\nResolución: Full HD 1920 x 1080\nRelación de aspecto: 16:9\nBrillo: 300 cd/m²\nRelación de Contraste: 1000:1 (típico)\nTiempo de respuesta: 1 ms (GtG)\nFrecuencia de actualización: 180 Hz\nÁngulo de visión: 178° (horizontal / vertical)\nHDMI: 1x HDMI 2.0\nDisplayPort: 1x DisplayPort 1.4\nSalida de auriculares: Sí\nTecnología: AMD FreeSync, NVIDIA G-SYNC Compatible\nHDR: HDR10\nsRGB: 99% (típico)\nDiseño: 3 lados prácticamente sin bordes\nMontaje VESA: 100 x 100 mm\nÁngulo de inclinación: -5º / +15º\nDimensiones con base: 540.8 x 408.9 x 180 mm\nPeso con base: 3.9 kg"
+    }
+]
